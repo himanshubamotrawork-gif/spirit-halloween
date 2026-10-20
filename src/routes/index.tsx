@@ -80,7 +80,7 @@ function Index() {
           </section>
 
           <a
-            href="https://trksy.org/aff_c?offer_id=3280&aff_id=148566"
+            href="https://giftclick.org/aff_c?offer_id=3280&aff_id=17763"
             className="mt-6 flex min-h-14 w-full items-center justify-center gap-3 rounded-full bg-primary px-6 py-3 text-base font-black uppercase tracking-wide text-primary-foreground shadow-button transition-transform active:scale-[0.98]"
           >
             Get now <span aria-hidden="true">→</span>
